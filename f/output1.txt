@@ -1,0 +1,74 @@
+numNodes: 6
+maxEdges: 5
+
+Inserting 0 1: friend
+
+Inserting 0 2: friend
+
+Inserting 2 3: professor
+
+Inserting 3 4: colleague
+
+Inserting 0 5: villian
+
+Displaying myNodes: 
+0: Harry
+1: Ron
+2: Hermoine
+3: Dumbledoor
+4: Hagrid
+5: Malfoy
+Displaying myEdges: 
+Harry - Ron friend
+Harry - Hermoine friend
+Hermoine - Dumbledoor professor
+Dumbledoor - Hagrid colleague
+Harry - Malfoy villian
+
+Edge exists between Harry and Ron
+
+Removing 2 3
+
+Removing 3 4
+
+No edge exists between Dumbledoor and Hagrid
+
+Displaying myNodes: 
+0: Harry
+1: Ron
+2: Hermoine
+3: Dumbledoor
+4: Hagrid
+5: Malfoy
+Displaying myEdges: 
+Harry - Ron friend
+Harry - Hermoine friend
+Harry - Malfoy villian
+
+Inserting 3 5: villian
+
+Inserting 1 2: married
+
+Inserting 0 4: professor
+
+Inserting 2 4: professor
+
+Edge exists between Ron and Hermoine
+
+Removing 2 4
+
+Displaying myNodes: 
+0: Harry
+1: Ron
+2: Hermoine
+3: Dumbledoor
+4: Hagrid
+5: Malfoy
+Displaying myEdges: 
+Harry - Ron friend
+Harry - Hermoine friend
+Harry - Malfoy villian
+Dumbledoor - Malfoy villian
+Ron - Hermoine married
+Harry - Hagrid professor
+
