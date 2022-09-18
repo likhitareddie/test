@@ -1,5 +1,5 @@
 numNodes: 6
-maxEdges: 5
+dges: 5
 
 Inserting 0 1: friend
 
