@@ -8,16 +8,6 @@
 4 Hagrid
 5 Malfoy
 
-I 0 1 friend
-I 0 2 friend
-I 2 3 professor
-I 3 4 colleague
-I 0 5 villian
-D
-E 0 1
-R 2 3 
-R 3 4
-E 3 4 
 
 
 fkfjvidnfuhbdhu
